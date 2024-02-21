@@ -12,15 +12,19 @@
 ## Google Chrome
 
 chrome://settings/languages
+
 English (United States)
 
 Use Google Translate: Off
 
 ## Google Search
 
-https://www.google.com/preferences?hl=ru&lang=1&prev=https://www.google.com/preferences?hl%3Dru
+https://www.google.com/preferences?lang=1&prev=https://www.google.com/preferences
+
 Display language English
+
 Results language filter English
+
 Results region United States
 
 ## Google Profile
@@ -28,6 +32,7 @@ Results region United States
 https://myaccount.google.com/personal-info?hl=en
 
 Preferred Language: English - United States
+
 Русский удаляем
 
 Automatically add languages: Off
